@@ -4,7 +4,7 @@ def jogar():
     print('Bem-viado ao jogo de forca!')
     print('***************************')
 
-    palavra_secreta = 'irmão'.upper()
+    palavra_secreta = 'lemniscata'.upper()
     letras_acertadas = ['_' for letra in palavra_secreta]
 
     enforcou = False
